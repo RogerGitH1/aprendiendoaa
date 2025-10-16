@@ -9,4 +9,6 @@ class LinkedList{
             head = new Node(2);
         }
     }
+
+    dsdsds
 };
